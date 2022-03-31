@@ -1,1 +1,1 @@
-# agenda2numpy
+# Numpy Exercises
